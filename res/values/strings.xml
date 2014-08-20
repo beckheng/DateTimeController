@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">时间设置器</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="_1min">1分钟</string>
+    <string name="_2mins">2分钟</string>
+    <string name="_3mins">3分钟</string>
+    <string name="_4mins">4分钟</string>
+    <string name="_5mins">5分钟</string>
+    <string name="_6mins">6分钟</string>
+    <string name="_7mins">7分钟</string>
+    <string name="_8mins">8分钟</string>
+    <string name="_9mins">9分钟</string>
+    <string name="_10mins">10分钟</string>
+    <string name="_15mins">15分钟</string>
+    <string name="_20mins">20分钟</string>
+    <string name="_30mins">30分钟</string>
+    <string name="_1h">1小时</string>
+    <string name="_2h">2小时</string>
+    <string name="_3h">3小时</string>
+    <string name="custom_time">自定 (1m/1h/1d)</string>
+    <string name="set_it">设置</string>
+    <string name="cur_time">当前时间:</string>
+
+</resources>
